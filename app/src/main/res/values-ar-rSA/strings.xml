@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" comment="app_name" maxLength="17">My Application</string>
+    <string name="app_version" comment="app_version" maxLength="20">Version</string>
+    <string name="main_close">Close</string>
+    <string name="my_new_text" comment="ABC1234" maxLength="50">My New Text</string>
+</resources>
