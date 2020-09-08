@@ -3,5 +3,5 @@
     <string name="app_name" comment="app_name" maxLength="17">My Application</string>
     <string name="app_version" comment="app_version" maxLength="20">Version</string>
     <string name="main_close" comment="UUID=ABC1236">Close</string>
-    <string name="my_new_text" comment="UUID=ABC1234 maxWidth=120 maxLines=1" maxWidth="120" maxLines="1" maxLength="50">My New Text</string>
+    <string name="my_new_text" comment="my_new_text;UUID=ABC1234;maxWidth=120;maxLines=1" maxLength="50">My New Text</string>
 </resources>
