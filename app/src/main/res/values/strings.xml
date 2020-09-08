@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" comment="app_name" maxLength="17">My Application</string>
+    <string name="app_name" comment="app_name&#10;UUID=3456,&#10;max_width=150,&#10;max_lines=1" maxLength="30">My Application</string>
     <string name="app_version" comment="app_version&#10;UUID=1237,&#10;max_width=120,&#10;max_lines=2" maxLength="10">Version</string>
-    <string name="main_close" comment="UUID=ABC1236">Close</string>
+    <string name="main_close" comment="main_close&#10;UUID=ABC1236,&#10;max_width=150,&#10;max_lines=1" maxLength="17">Close</string>
     <string name="my_new_text" comment="UUID=ABC1234 maxWidth=120 maxLines=1" maxWidth="120" maxLines="1" maxLength="50">My New Text</string>
     <string name="My_name" comment="ABC1235" maxLenght="12" translatable="false">Sergio</string>
 </resources>
