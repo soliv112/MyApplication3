@@ -7,4 +7,5 @@
     <string name="My_name" comment="ABC1235" maxLenght="12" translatable="false">Sergio</string>
     <string name="ABC123456" comment="max_width=120&#13;&#10;max_lines=1" maxLength="15">New Button</string>
     <string name="ABC123457" comment="max_width=120&#13;&#10;max_lines=1" maxLength="15" >Second Button</string>
+    <string name="ABC123458">Third Button</string>
 </resources>
