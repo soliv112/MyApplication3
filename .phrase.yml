@@ -1,5 +1,5 @@
 phraseapp:
-  project_id: 43e520513514eb5ea891f8fe38da1e59
+  project_id: f24bde36831fc62d4f4ca061eef502c7
   push:
     sources:
     - file: ./app/src/main/res/values/strings.xml
