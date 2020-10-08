@@ -4,7 +4,7 @@
     <string name="app_version" comment="app_version&#10;UUID=1237,&#10;max_width=120,&#10;max_lines=2" maxLength="10">Versão</string>
     <string name="main_close" comment="main_close&#10;UUID=ABC1236,&#10;max_width=150,&#10;max_lines=1" maxLength="17">FECHAR</string>
     <string name="my_new_text" comment="UUID=ABC1234 maxWidth=120 maxLines=1" maxWidth="120" maxLines="1" maxLength="50">Meu Novo Texto</string>
-    <string name="ABC123456" comment="max_width=120&#13;&#10;max_lines=1&#10; Description=This works on this way" maxLength="16">Botão Novo</string>
+    <string name="ABC123456" comment="max_width=120&#13;&#10;max_lines=1&#10; Description=This works on this way" maxLength="18">Botão Novo</string>
     <string name="ABC123457" comment="max_width=120&#13;&#10;max_lines=1" maxLength="15">Second Button</string>
     <string name="ABC123458">Third Button</string>
 </resources>
