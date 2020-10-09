@@ -1,17 +1,5 @@
 phraseapp:
   project_id: d3c0fb9749dbcbe9891eb1eb446f54ed
-  push:
-    sources:
-    - file: ./app/src/main/res/values-en/strings.xml
-      params:
-        file_format: xml
-  pull:
-    targets:
-    - file: ./app/src/main/res/values-<locale_code>/strings.xml
-      params:
-        file_format: xml
-phraseapp:
-  project_id: d3c0fb9749dbcbe9891eb1eb446f54ed
   file_format: xml
   pull:
     targets:
