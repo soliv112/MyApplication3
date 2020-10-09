@@ -10,3 +10,40 @@ phraseapp:
     - file: ./app/src/main/res/values-<locale_code>/strings.xml
       params:
         file_format: xml
+phraseapp:
+  project_id: d3c0fb9749dbcbe9891eb1eb446f54ed
+  file_format: xml
+  pull:
+    targets:
+    - file: ./app/src/main/res/values/strings.xml
+      params:
+        file_format: xml
+        # Unique locale id for English
+        locale_id: 8b26c7d10ab632b9500f9ed2f9cc7388
+    - file: ./app/src/main/res/values-<locale_code>/strings.xml
+      params:
+        file_format: xml
+
+#    - file: ./app/src/main/res/values-de/strings.xml
+#      params:
+#        file_format: xml
+#        # Unique locale id for German
+#        locale_id: 273dxbf9e3eb422fe1a33bb2fad87af1
+#    - file: ./app/src/main/res/values-de-rAU/strings.xml
+#      params:
+#        file_format: xml
+#        # Unique locale id for Austrian
+#        locale_id: 37326bf9e3eb422fe1a33bb2fad87aas
+  push:
+    sources:
+    - file: ./app/src/main/res/values/strings.xml
+      params:
+        file_format: xml
+        locale_id: 8b26c7d10ab632b9500f9ed2f9cc7388
+    - file: ./app/src/main/res/values-<locale_code>/strings.xml
+      params:
+        file_format: xml
+#    - file: ./app/src/main/res/values-de-rAU/strings.xml
+#      params:
+#        file_format: xml
+#        locale_id: 37326bf9e3eb422fe1a33bb2fad87aas
