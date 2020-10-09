@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <!-- My first text -->
-    <string name="ABC1234">First Tex Changedt</string>
+    <string name="ABC1234">First Text</string>
+    <string name="ABC123456">New Button</string>
+    <string name="ABC123457">Second Button</string>
+    <string name="ABC123458">Third Button</string>
+    <string name="app_name">My Application</string>
+    <string name="app_version">Version</string>
+    <string name="main_close">Close</string>
+    <string name="My_name">Sergio</string>
+    <string name="my_new_text">My New Text</string>
 </resources>
