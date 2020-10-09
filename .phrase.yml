@@ -2,7 +2,7 @@ phraseapp:
   project_id: d3c0fb9749dbcbe9891eb1eb446f54ed
   push:
     sources:
-    - file: ./app/src/main/res/values/strings.xml
+    - file: ./app/src/main/res/values-en/strings.xml
       params:
         file_format: xml
   pull:
